@@ -36,7 +36,7 @@
         "email": "support@appseed.us"
     },
     "author": "AppSeed <support@appseed.us> (https://appseed.us)",
-    "license": "Comercial",
+    "license": "Commercial",
     "private": false,
     "dependencies": {
         "bulma": "^0.7.4",
