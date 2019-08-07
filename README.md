@@ -1,6 +1,6 @@
-# [JAMstack - Reflex](https://jamstack-reflex.appseed.us/)
+# [JAMstack Reflex](https://appseed.us/apps/jamstack/jamstack-reflex-pixelarity)
 
-Blazing fast application coded by AppSeed in JAMstack pattern on top of Reflex Pixelarity design.
+Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of Reflex Pixelarity design.
 
 <br />
 
@@ -15,13 +15,14 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ## App Links
----
- - [Jamstack Reflex demo](https://jamstack-reflex.appseed.us/)
- - [Reflex](https://pixelarity.com/reflex) - the design provided by Pixelarity 
+
+- [Jamstack Reflex](https://jamstack-reflex.appseed.us/) - live demo
+- [Pixelarity Reflex](https://pixelarity.com/reflex) - the design provided by Pixelarity 
 
 <br />
 
 ## How to use it
+
 - Clone this repo `git clone https://github.com/app-generator/priv-jamstack-reflex.git`
 - change directory to `priv-jamstack-reflex`
 - `yarn` - install deps
@@ -31,7 +32,8 @@ This is a commercial application, to use it you need to buy a license. Please ac
 
 <br />
 
-## JAMstack related Resources
+## [JAMstack](https://jamstack.org/) resources
+
 - Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
 - [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
 - [JAMstack.org](https://jamstack.org/)
@@ -40,4 +42,4 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ---
-[JAMstack - Reflex](https://jamstack-reflex.appseed.us/) - provided by **AppSeed**
+[JAMstack Reflex](https://appseed.us/apps/jamstack/jamstack-reflex-pixelarity) - provided by **AppSeed**
