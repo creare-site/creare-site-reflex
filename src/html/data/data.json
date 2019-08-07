@@ -4,8 +4,7 @@
     "design"  : "Reflex by Pixelarity",
 
     "links" : {
-        "product_live"   : "https://appseed.us/apps/jamstack/jamstack-reflex-pixelarity", 
-        "product"        : "https://github.com/app-generator/priv-jamstack-reflex", 
+        "product"        : "https://appseed.us/apps/jamstack/jamstack-reflex-pixelarity", 
         "github"         : "https://github.com/app-generator/priv-jamstack-reflex",
         "docs"           : "https://docs.appseed.us/apps/jamstack/jamstack-reflex-pixelarity/",
         "appseed"        : "https://appseed.us",      
