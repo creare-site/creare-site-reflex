@@ -1,16 +1,16 @@
-# [Creare Site Relax](https://creare-site-reflex.websitemarket.ro/) - Site Prezentare
+# [Creare Site Reflex](https://creare-site-reflex.websitemarket.ro/) - Site Prezentare
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![Creare Site Relax](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-reflex-intro.gif)
+![Creare Site Reflex](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-reflex-intro.gif)
 
 <br />
 
 ## Informatii produs
 
-- Site de prezentare - Relax
+- Site de prezentare - Reflex
 - Live [DEMO](https://creare-site-reflex.websitemarket.ro)
  
 <br />
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-Site Prezentare - [Relax](https://creare-site-reflex.websitemarket.ro/) un produs **WebsiteMarket**
+Site Prezentare - [Reflex](https://creare-site-reflex.websitemarket.ro/) un produs **WebsiteMarket**
