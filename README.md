@@ -1,17 +1,17 @@
-# [Creare Site Relax](https://creare-site-relax.websitemarket.ro/) - Site Prezentare
+# [Creare Site Relax](https://creare-site-reflex.websitemarket.ro/) - Site Prezentare
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![Creare Site Relax](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-relax-intro.gif)
+![Creare Site Relax](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-reflex-intro.gif)
 
 <br />
 
 ## Informatii produs
 
 - Site de prezentare - Relax
-- Live [DEMO](https://creare-site-relax.websitemarket.ro)
+- Live [DEMO](https://creare-site-reflex.websitemarket.ro)
  
 <br />
 
@@ -27,8 +27,8 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 Acesta website este o aplicatie JAMstack. Pentru a genera website-ul local urmati instructiunile:
 
 ```
-$ git clone https://github.com/creare-site/creare-site-relax.git
-$ cd creare-site-relax
+$ git clone https://github.com/creare-site/creare-site-reflex.git
+$ cd creare-site-reflex
 $ yarn # instalare module
 $ yarn start # mod editare live
 $ yarn build # generare site productie
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-Site Prezentare - [Relax](https://creare-site-relax.websitemarket.ro/) un produs **WebsiteMarket**
+Site Prezentare - [Relax](https://creare-site-reflex.websitemarket.ro/) un produs **WebsiteMarket**
