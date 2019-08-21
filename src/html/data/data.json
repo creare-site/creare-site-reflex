@@ -3,13 +3,11 @@
     "email"   : "hello@websitemarket.ro",
     "design"  : "Reflex | Pixelarity",
 
-    "links" : {
-        "product"        : "https://websitemarket.ro", 
-        "github"         : "https://github.com/creare-site/creare-site-reflex",
-        "facebook"       : "https://www.facebook.com/Websitemarketro/",
-        "twitter"        : "https://twitter.com/websitemarketro",
-        "support"        : "hello@websitemarket.ro"
-    }, 
+    "product"        : "https://websitemarket.ro", 
+    "github"         : "https://github.com/creare-site/creare-site-reflex",
+    "facebook"       : "https://www.facebook.com/Websitemarketro/",
+    "twitter"        : "https://twitter.com/websitemarketro",
+    "support"        : "hello@websitemarket.ro",
 
     "LAST_KEY" : "NA"
 }
